@@ -44,16 +44,16 @@
 - ホーム(/) 
   - 投稿の一覧
   - いいね
-  - コメント
+  - コメント
 - 投稿(/post)
   - 投稿する
 - 設定(/config)
   - アプリ名の変更
-  - サーバー保存は未実装
+    - サーバー側への保存は未実装
 - ログイン(/login)
   - username, passwordによるログイン
 - 登録(/signup)
-  - username, passwordによる登録
+  - username, passwordによる登録
 
 
 ## API
