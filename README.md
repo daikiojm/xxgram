@@ -1,5 +1,7 @@
 # xxgram
 
+![xxgram](https://github.com/daikiojm/xxgram/blob/master/xxgram.png)
+
 ## xxgram is 何
 
 インスタ映えしない写真を共有するサービス
